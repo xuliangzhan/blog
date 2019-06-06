@@ -7,11 +7,6 @@
 </template>
 
 <style lang="scss">
-html {
-  height: 100%;
-  background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
-  overflow: hidden;
-}
 
 .star1 {
   width: 1px;
