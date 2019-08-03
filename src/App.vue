@@ -33,7 +33,7 @@ export default {
         },
         {
           name: 'xe-clipboard',
-          url: 'https://github.com/xuliangzhan/xe-clipboard',
+          url: '/xe-clipboard/index.html',
           description: '😮 JavaScript 实现复制文本到剪贴板，支持主流 H5 浏览器'
         },
         {
