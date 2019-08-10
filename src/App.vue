@@ -24,22 +24,22 @@ export default {
         {
           name: 'xe-ajax',
           url: 'https://github.com/xuliangzhan/xe-ajax',
-          description: '✈ JavaScript 异步请求库，用于浏览器和 node.js 的 HTTP 客户端'
+          description: '✈ js 异步请求库，用于浏览器和 nodejs 的 HTTP 客户端'
         },
         {
           name: 'xe-utils',
           url: '/xe-utils/index.html',
-          description: '🌵 JavaScript 函数库、工具类'
+          description: '🌵 js 函数库、工具类'
         },
         {
           name: 'xe-clipboard',
           url: '/xe-clipboard/index.html',
-          description: '😮 JavaScript 实现复制文本到剪贴板，支持主流 H5 浏览器'
+          description: '😮 js 复制文本到剪贴板，支持IE、Chrome、Firefox、Opera、Safari、IOS、Android'
         },
         {
           name: 'vxe-table',
           url: '/vxe-table/index.html',
-          description: '🐬 一个全功能的 Vue 表格组件，满足绝大部分对 Table 的一切需求'
+          description: '🐬 一个功能齐全的 Vue 表组件，与任意组件库完美兼容'
         }
       ]
     }
