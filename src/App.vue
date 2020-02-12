@@ -39,7 +39,7 @@ export default {
         {
           name: 'vxe-table',
           url: '/vxe-table/index.html',
-          description: '🐬 一个简单实用的 Vue 表组件，与任意组件库完美兼容'
+          description: '🐬 一个功能强大的 Vue 表格'
         }
       ]
     }
