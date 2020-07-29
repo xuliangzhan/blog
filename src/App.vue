@@ -23,23 +23,23 @@ export default {
       modules: [
         {
           name: 'xe-ajax',
-          url: 'https://github.com/xuliangzhan/xe-ajax',
+          url: 'https://github.com/x-extends/xe-ajax',
           description: '✈ js 异步请求库，用于浏览器和 nodejs 的 HTTP 客户端'
         },
         {
           name: 'xe-utils',
-          url: '/xe-utils/index.html',
+          url: '/xe-utils/',
           description: '🌵 js 函数库、工具类'
         },
         {
           name: 'xe-clipboard',
-          url: '/xe-clipboard/index.html',
+          url: '/xe-clipboard/',
           description: '😮 js 复制文本到剪贴板，支持IE、Chrome、Firefox、Opera、Safari、IOS、Android'
         },
         {
           name: 'vxe-table',
-          url: '/vxe-table/index.html',
-          description: '🐬 一个功能强大的 Vue 表格'
+          url: '/vxe-table/',
+          description: '🐬 vue 表格解决方案'
         }
       ]
     }
